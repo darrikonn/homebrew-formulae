@@ -2,9 +2,9 @@
 class Cheat < Formula
   desc "A fast and flexible cheatsheet manager built with Go"
   homepage "https://github.com/darrikonn/cheat"
-  url "https://github.com/darrikonn/cheat/releases/download/v1.1.0/cheat-v1.1.0-macOS-64bit.tar.gz"
-  version "1.1.0"
-  sha256 "156b9463b72b6e566f3f8b142837a8ee19af612819cd6ec79abe9cbe409c380a"
+  url "https://github.com/darrikonn/cheat/releases/download/v1.1.1/cheat-v1.1.1-macOS-64bit.tar.gz"
+  version "1.1.1"
+  sha256 "b10dcbd31e3741cfdef2a7fd3a2b81089527e7dbf0ffd712fb750470906d729d"
 
   def install
     bin.install "cheat"
